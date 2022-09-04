@@ -1,0 +1,13 @@
+Added Component: Designator=DA1(SC70)
+Add component (AddParameter): Name = "Current limit"; Value = "1,5 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating voltage"; Value = "1,6 ... 5,5  В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds"; Value = "89 ... 105 мОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-40 ... 125 C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Силовой электронный ключ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SWITCH Pin=DA1-1
+Added Pin To Net: NetName=GND Pin=DA1-2
+Added Pin To Net: NetName=ON Pin=DA1-3
+Added Pin To Net: NetName=NetDA1_5 Pin=DA1-5
+Added Pin To Net: NetName=OUT+ Pin=DA1-6
+Added Member To Class: ClassName=Battery chargers Member=Component DA1 TPS22919DCKT

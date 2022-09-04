@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=PG Pin=XP4-1
+Removed Pin From Net: NetName=CHG Pin=XP4-2
+Removed Pin From Net: NetName=CE Pin=XP4-3
+Removed Pin From Net: NetName=EN1 Pin=XP4-4
+Removed Pin From Net: NetName=EN2 Pin=XP4-5
+Added Pin To Net: NetName=CE Pin=XP4-1
+Added Pin To Net: NetName=EN2 Pin=XP4-2
+Added Pin To Net: NetName=EN1 Pin=XP4-3
+Added Pin To Net: NetName=PG Pin=XP4-4
+Added Pin To Net: NetName=CHG Pin=XP4-5
+Added Member To Class: ClassName=Battery chargers Member=Component C4 GRM188R61C106MA73
+Added Member To Class: ClassName=Battery chargers Member=Component DA2 BQ24072RGTR
+Added Member To Class: ClassName=Battery chargers Member=Component R1 RC0603JR-0710KL
+Added Member To Class: ClassName=Battery chargers Member=Component R9 RC0603JR-0710KL
+Added Member To Class: ClassName=Battery chargers Member=Component XP4 PLS-9
