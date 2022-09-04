@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=ON Pin=XP4-7
-Removed Pin From Net: NetName=SWITCH Pin=XP4-8
-Added Pin To Net: NetName=SWITCH Pin=XP4-7
-Added Pin To Net: NetName=ON Pin=XP4-8
