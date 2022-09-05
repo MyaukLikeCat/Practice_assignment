@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=XP3 NewDesignator=XP4
+Change Component Designator: OldDesignator=XP4 NewDesignator=XP5
+Added Component: Designator=XP3(DS1069-2MVxxX)
+Add component (AddParameter): Name = "Connector type"; Value = "Вилка на плату"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CONNFLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Разъем штыревой"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_1 Pin=XP3-1
+Added Pin To Net: NetName=GND Pin=XP3-2
+Added Member To Class: ClassName=Battery chargers Member=Component XP5 PLS-6
+Added Room: Name=Battery chargers

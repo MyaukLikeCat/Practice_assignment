@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=HL1 Old Footprint=LED_0603_Green_Auto_mount New Footprint=LED_0603_Green_Manual_mount
+Change Component Footprint: Designator=HL2 Old Footprint=LED_0603_Red_Auto_mount New Footprint=LED_0603_Red_Manual_mount
+Added Member To Class: ClassName=Battery chargers Member=Component HL2 KP-1608SURC

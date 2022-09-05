@@ -1,0 +1,194 @@
+Added Component: Designator=C1(C_0805_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM21BR61C106KE15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "16 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C_0805_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM21BR61C106KE15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "16 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 мк"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C_0805_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM21BR61C106KE15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage"; Value = "16 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±15 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 мк"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(VQFN-16)
+Add component (AddParameter): Name = "Battery type"; Value = "Li-Ion/Li-Poly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Charge current"; Value = "0,1 ... 1,5 А"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input voltage"; Value = "4,35 ... 6,6 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of cells"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output voltage"; Value = "4.2 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard"; Value = "Fast Charge"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-40 ... 125  °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Контроллер АКБ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage accuracy"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=HL1(LED_0603_Green_Auto_mount)
+Add component (AddParameter): Name = "Color"; Value = "Зеленый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = "2,1 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. forward current"; Value = "30 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. reverse voltage"; Value = "5 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissitipation"; Value = "75 мВт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-40 ... 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Светодиод"; VariantName = "[No Variations]"
+Added Component: Designator=HL2(LED_0603_Red_Auto_mount)
+Add component (AddParameter): Name = "Color"; Value = "Красный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage"; Value = "1,9 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. forward current"; Value = "30 мА"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. reverse voltage"; Value = "5 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissitipation"; Value = "170 мВт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-40 ... 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Светодиод"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R_0805_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805JR-071K5L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissipation"; Value = "0,125 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор постоянный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1,5 к"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R_0805_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805JR-071K5L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissipation"; Value = "0,125 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор постоянный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1,5 к"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R_0805_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805JR-071K3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissipation"; Value = "0,125 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор постоянный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1,3 к"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R_0805_Manual_mount)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805JR-07910RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissipation"; Value = "0,125 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature coefficient"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-55 ... 155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор постоянный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "910"; VariantName = "[No Variations]"
+Added Component: Designator=RK1(RK_0603_Manual_Mount)
+Add component (AddParameter): Name = "B tolerance"; Value = "3%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "B(25-50 °C)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "B(25-75 °C)"; Value = "3477 К"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "B(25-80 °C)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "B(25-85 °C)"; Value = "3486 К"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "B(25-100 °C)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "NTHS0603N02N1002J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power dissipation"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature range"; Value = "-40 ... 125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Термистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 к"; VariantName = "[No Variations]"
+Added Component: Designator=XP1(DS1069-3MVW6X)
+Add component (AddParameter): Name = "Connector type"; Value = "Вилка на плату"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CONNFLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Разъем штыревой"; VariantName = "[No Variations]"
+Added Component: Designator=XP2(DS1069-2MVxxX)
+Add component (AddParameter): Name = "Connector type"; Value = "Вилка на плату"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CONNFLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Разъем штыревой"; VariantName = "[No Variations]"
+Added Component: Designator=XP3(DS1069-2MVxxX)
+Add component (AddParameter): Name = "Connector type"; Value = "Вилка на плату"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CONNFLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Разъем штыревой"; VariantName = "[No Variations]"
+Added Component: Designator=XP4(DS1069-2MVxxX)
+Add component (AddParameter): Name = "Connector type"; Value = "Вилка на плату"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CONNFLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Разъем штыревой"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetC3_1 Pin=DA1-2
+Added Pin To Net: NetName=NetC3_1 Pin=DA1-3
+Added Pin To Net: NetName=GND Pin=DA1-4
+Added Pin To Net: NetName=NetC2_1 Pin=DA1-5
+Added Pin To Net: NetName=GND Pin=DA1-6
+Added Pin To Net: NetName=NetDA1_7 Pin=DA1-7
+Added Pin To Net: NetName=GND Pin=DA1-8
+Added Pin To Net: NetName=NetDA1_9 Pin=DA1-9
+Added Pin To Net: NetName=NetC2_1 Pin=DA1-10
+Added Pin To Net: NetName=NetC2_1 Pin=DA1-11
+Added Pin To Net: NetName=NetDA1_12 Pin=DA1-12
+Added Pin To Net: NetName=NetC1_1 Pin=DA1-13
+Added Pin To Net: NetName=GND Pin=DA1-14
+Added Pin To Net: NetName=GND Pin=DA1-15
+Added Pin To Net: NetName=NetDA1_16 Pin=DA1-16
+Added Pin To Net: NetName=NetHL1_A Pin=HL1-A
+Added Pin To Net: NetName=NetDA1_7 Pin=HL1-C
+Added Pin To Net: NetName=NetHL2_A Pin=HL2-A
+Added Pin To Net: NetName=NetDA1_9 Pin=HL2-C
+Added Pin To Net: NetName=NetHL1_A Pin=R1-1
+Added Pin To Net: NetName=NetC2_1 Pin=R1-2
+Added Pin To Net: NetName=NetHL2_A Pin=R2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-2
+Added Pin To Net: NetName=NetDA1_12 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetDA1_16 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=NetC1_1 Pin=XP2-1
+Added Pin To Net: NetName=GND Pin=XP2-2
+Added Pin To Net: NetName=NetC2_1 Pin=XP3-1
+Added Pin To Net: NetName=GND Pin=XP3-2
+Added Pin To Net: NetName=NetC3_1 Pin=XP4-1
+Added Pin To Net: NetName=GND Pin=XP4-2
+Added Member To Class: ClassName=Battery chargers Member=Component C1 GRM21BR61C106KE15
+Added Member To Class: ClassName=Battery chargers Member=Component C2 GRM21BR61C106KE15
+Added Member To Class: ClassName=Battery chargers Member=Component C3 GRM21BR61C106KE15
+Added Member To Class: ClassName=Battery chargers Member=Component DA1 BQ24072RGTR
+Added Member To Class: ClassName=Battery chargers Member=Component HL1 KP-1608MGC
+Added Member To Class: ClassName=Battery chargers Member=Component HL2 KP-1608SURC
+Added Member To Class: ClassName=Battery chargers Member=Component R1 RC0805JR-071K5L
+Added Member To Class: ClassName=Battery chargers Member=Component R2 RC0805JR-071K5L
+Added Member To Class: ClassName=Battery chargers Member=Component R3 RC0805JR-071K3L
+Added Member To Class: ClassName=Battery chargers Member=Component R4 RC0805JR-07910RL
+Added Member To Class: ClassName=Battery chargers Member=Component RK1 NTHS0603N02N1002J
+Added Member To Class: ClassName=Battery chargers Member=Component XP1 DS1069-3MVW6X
+Added Member To Class: ClassName=Battery chargers Member=Component XP2 DS1069-2MVW6X
+Added Member To Class: ClassName=Battery chargers Member=Component XP3 DS1069-2MVW6X
+Added Member To Class: ClassName=Battery chargers Member=Component XP4 DS1069-2MVW6X
+Added Room: Name=Battery chargers
